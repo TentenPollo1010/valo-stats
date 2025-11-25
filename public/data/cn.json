@@ -1,0 +1,276 @@
+{
+  "data": {
+    "status": 200,
+    "segments": [
+      {
+        "player": "stew",
+        "org": "JDG",
+        "agents": [
+          "raze",
+          "neon",
+          "waylay"
+        ],
+        "rounds_played": "224",
+        "rating": "",
+        "average_combat_score": "238.9",
+        "kill_deaths": "1.21",
+        "kill_assists_survived_traded": "",
+        "average_damage_per_round": "",
+        "kills_per_round": "0.87",
+        "assists_per_round": "0.16",
+        "first_kills_per_round": "",
+        "first_deaths_per_round": "",
+        "headshot_percentage": "",
+        "clutch_success_percentage": ""
+      },
+      {
+        "player": "jkuro",
+        "org": "JDG",
+        "agents": [
+          "omen",
+          "breach",
+          "astra"
+        ],
+        "rounds_played": "224",
+        "rating": "",
+        "average_combat_score": "167.5",
+        "kill_deaths": "0.87",
+        "kill_assists_survived_traded": "",
+        "average_damage_per_round": "",
+        "kills_per_round": "0.59",
+        "assists_per_round": "0.43",
+        "first_kills_per_round": "",
+        "first_deaths_per_round": "",
+        "headshot_percentage": "",
+        "clutch_success_percentage": ""
+      },
+      {
+        "player": "kklin",
+        "org": "JDG",
+        "agents": [
+          "viper",
+          "cypher",
+          "neon"
+        ],
+        "rounds_played": "224",
+        "rating": "",
+        "average_combat_score": "204.5",
+        "kill_deaths": "1.07",
+        "kill_assists_survived_traded": "",
+        "average_damage_per_round": "",
+        "kills_per_round": "0.70",
+        "assists_per_round": "0.21",
+        "first_kills_per_round": "",
+        "first_deaths_per_round": "",
+        "headshot_percentage": "",
+        "clutch_success_percentage": ""
+      },
+      {
+        "player": "End3",
+        "org": "ALG.GC",
+        "agents": [
+          "yoru",
+          "cypher",
+          "sage"
+        ],
+        "rounds_played": "226",
+        "rating": "",
+        "average_combat_score": "182.9",
+        "kill_deaths": "0.78",
+        "kill_assists_survived_traded": "",
+        "average_damage_per_round": "",
+        "kills_per_round": "0.61",
+        "assists_per_round": "0.28",
+        "first_kills_per_round": "",
+        "first_deaths_per_round": "",
+        "headshot_percentage": "",
+        "clutch_success_percentage": ""
+      },
+      {
+        "player": "Yusin",
+        "org": "ALG.GC",
+        "agents": [
+          "clove",
+          "omen"
+        ],
+        "rounds_played": "226",
+        "rating": "",
+        "average_combat_score": "164.0",
+        "kill_deaths": "0.80",
+        "kill_assists_survived_traded": "",
+        "average_damage_per_round": "",
+        "kills_per_round": "0.58",
+        "assists_per_round": "0.42",
+        "first_kills_per_round": "",
+        "first_deaths_per_round": "",
+        "headshot_percentage": "",
+        "clutch_success_percentage": ""
+      },
+      {
+        "player": "Laiyin",
+        "org": "ALG.GC",
+        "agents": [
+          "omen",
+          "yoru",
+          "cypher"
+        ],
+        "rounds_played": "226",
+        "rating": "",
+        "average_combat_score": "218.6",
+        "kill_deaths": "1.15",
+        "kill_assists_survived_traded": "",
+        "average_damage_per_round": "",
+        "kills_per_round": "0.80",
+        "assists_per_round": "0.19",
+        "first_kills_per_round": "",
+        "first_deaths_per_round": "",
+        "headshot_percentage": "",
+        "clutch_success_percentage": ""
+      },
+      {
+        "player": "x1aoWeNz",
+        "org": "ALG.GC",
+        "agents": [
+          "sova",
+          "fade"
+        ],
+        "rounds_played": "226",
+        "rating": "",
+        "average_combat_score": "194.7",
+        "kill_deaths": "0.96",
+        "kill_assists_survived_traded": "",
+        "average_damage_per_round": "",
+        "kills_per_round": "0.66",
+        "assists_per_round": "0.36",
+        "first_kills_per_round": "",
+        "first_deaths_per_round": "",
+        "headshot_percentage": "",
+        "clutch_success_percentage": ""
+      },
+      {
+        "player": "Elina",
+        "org": "ALG.GC",
+        "agents": [
+          "waylay",
+          "neon"
+        ],
+        "rounds_played": "226",
+        "rating": "",
+        "average_combat_score": "209.5",
+        "kill_deaths": "0.93",
+        "kill_assists_survived_traded": "",
+        "average_damage_per_round": "",
+        "kills_per_round": "0.72",
+        "assists_per_round": "0.21",
+        "first_kills_per_round": "",
+        "first_deaths_per_round": "",
+        "headshot_percentage": "",
+        "clutch_success_percentage": ""
+      },
+      {
+        "player": "S1Mon",
+        "org": "AQ",
+        "agents": [
+          "raze",
+          "neon",
+          "omen"
+        ],
+        "rounds_played": "234",
+        "rating": "",
+        "average_combat_score": "211.5",
+        "kill_deaths": "0.99",
+        "kill_assists_survived_traded": "",
+        "average_damage_per_round": "",
+        "kills_per_round": "0.74",
+        "assists_per_round": "0.41",
+        "first_kills_per_round": "",
+        "first_deaths_per_round": "",
+        "headshot_percentage": "",
+        "clutch_success_percentage": ""
+      },
+      {
+        "player": "FFs",
+        "org": "AQ",
+        "agents": [
+          "fade",
+          "sova"
+        ],
+        "rounds_played": "234",
+        "rating": "",
+        "average_combat_score": "157.8",
+        "kill_deaths": "0.68",
+        "kill_assists_survived_traded": "",
+        "average_damage_per_round": "",
+        "kills_per_round": "0.50",
+        "assists_per_round": "0.41",
+        "first_kills_per_round": "",
+        "first_deaths_per_round": "",
+        "headshot_percentage": "",
+        "clutch_success_percentage": ""
+      },
+      {
+        "player": "Dannyy",
+        "org": "AQ",
+        "agents": [
+          "deadlock",
+          "cypher",
+          "yoru"
+        ],
+        "rounds_played": "234",
+        "rating": "",
+        "average_combat_score": "209.9",
+        "kill_deaths": "1.01",
+        "kill_assists_survived_traded": "",
+        "average_damage_per_round": "",
+        "kills_per_round": "0.73",
+        "assists_per_round": "0.26",
+        "first_kills_per_round": "",
+        "first_deaths_per_round": "",
+        "headshot_percentage": "",
+        "clutch_success_percentage": ""
+      },
+      {
+        "player": "Youjun",
+        "org": "AQ",
+        "agents": [
+          "chamber",
+          "yoru",
+          "neon"
+        ],
+        "rounds_played": "234",
+        "rating": "",
+        "average_combat_score": "205.0",
+        "kill_deaths": "1.05",
+        "kill_assists_survived_traded": "",
+        "average_damage_per_round": "",
+        "kills_per_round": "0.74",
+        "assists_per_round": "0.19",
+        "first_kills_per_round": "",
+        "first_deaths_per_round": "",
+        "headshot_percentage": "",
+        "clutch_success_percentage": ""
+      },
+      {
+        "player": "iamgrq",
+        "org": "AQ",
+        "agents": [
+          "omen",
+          "vyse",
+          "clove"
+        ],
+        "rounds_played": "234",
+        "rating": "",
+        "average_combat_score": "193.5",
+        "kill_deaths": "0.96",
+        "kill_assists_survived_traded": "",
+        "average_damage_per_round": "",
+        "kills_per_round": "0.68",
+        "assists_per_round": "0.36",
+        "first_kills_per_round": "",
+        "first_deaths_per_round": "",
+        "headshot_percentage": "",
+        "clutch_success_percentage": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "data": {
+    "status": 200,
+    "segments": [
+      {
+        "player": "Enryu",
+        "org": "OG",
+        "agents": [
+          "clove",
+          "yoru",
+          "cypher"
+        ],
+        "rounds_played": "207",
+        "rating": "1.17",
+        "average_combat_score": "258.9",
+        "kill_deaths": "1.23",
+        "kill_assists_survived_traded": "79%",
+        "average_damage_per_round": "169.8",
+        "kills_per_round": "0.97",
+        "assists_per_round": "0.30",
+        "first_kills_per_round": "0.09",
+        "first_deaths_per_round": "0.08",
+        "headshot_percentage": "35%",
+        "clutch_success_percentage": "17%"
+      },
+      {
+        "player": "Floga",
+        "org": "CDMD",
+        "agents": [
+          "clove",
+          "fade",
+          "sova"
+        ],
+        "rounds_played": "253",
+        "rating": "1.12",
+        "average_combat_score": "259.2",
+        "kill_deaths": "1.15",
+        "kill_assists_survived_traded": "75%",
+        "average_damage_per_round": "170.2",
+        "kills_per_round": "0.93",
+        "assists_per_round": "0.28",
+        "first_kills_per_round": "0.18",
+        "first_deaths_per_round": "0.13",
+        "headshot_percentage": "29%",
+        "clutch_success_percentage": "23%"
+      },
+      {
+        "player": "Phantaminium",
+        "org": "OG",
+        "agents": [
+          "fade",
+          "sova",
+          "skye"
+        ],
+        "rounds_played": "267",
+        "rating": "1.11",
+        "average_combat_score": "185.9",
+        "kill_deaths": "1.11",
+        "kill_assists_survived_traded": "75%",
+        "average_damage_per_round": "121.4",
+        "kills_per_round": "0.66",
+        "assists_per_round": "0.42",
+        "first_kills_per_round": "0.07",
+        "first_deaths_per_round": "0.10",
+        "headshot_percentage": "23%",
+        "clutch_success_percentage": "28%"
+      },
+      {
+        "player": "kaza",
+        "org": "HSW",
+        "agents": [
+          "sova",
+          "fade",
+          "omen"
+        ],
+        "rounds_played": "335",
+        "rating": "1.08",
+        "average_combat_score": "206.4",
+        "kill_deaths": "1.09",
+        "kill_assists_survived_traded": "77%",
+        "average_damage_per_round": "138.1",
+        "kills_per_round": "0.73",
+        "assists_per_round": "0.31",
+        "first_kills_per_round": "0.07",
+        "first_deaths_per_round": "0.07",
+        "headshot_percentage": "27%",
+        "clutch_success_percentage": "10%"
+      },
+      {
+        "player": "zenox",
+        "org": "HSW",
+        "agents": [
+          "yoru",
+          "waylay",
+          "deadlock"
+        ],
+        "rounds_played": "335",
+        "rating": "1.06",
+        "average_combat_score": "246.1",
+        "kill_deaths": "1.09",
+        "kill_assists_survived_traded": "71%",
+        "average_damage_per_round": "160.7",
+        "kills_per_round": "0.84",
+        "assists_per_round": "0.24",
+        "first_kills_per_round": "0.17",
+        "first_deaths_per_round": "0.15",
+        "headshot_percentage": "28%",
+        "clutch_success_percentage": "14%"
+      },
+      {
+        "player": "ecco",
+        "org": "JOB",
+        "agents": [
+          "cypher",
+          "vyse",
+          "clove"
+        ],
+        "rounds_played": "372",
+        "rating": "1.05",
+        "average_combat_score": "205.3",
+        "kill_deaths": "1.04",
+        "kill_assists_survived_traded": "72%",
+        "average_damage_per_round": "138.7",
+        "kills_per_round": "0.72",
+        "assists_per_round": "0.30",
+        "first_kills_per_round": "0.09",
+        "first_deaths_per_round": "0.06",
+        "headshot_percentage": "29%",
+        "clutch_success_percentage": "13%"
+      },
+      {
+        "player": "Errrnest",
+        "org": "OG",
+        "agents": [
+          "killjoy",
+          "breach",
+          "jett"
+        ],
+        "rounds_played": "267",
+        "rating": "1.03",
+        "average_combat_score": "226.8",
+        "kill_deaths": "1.03",
+        "kill_assists_survived_traded": "76%",
+        "average_damage_per_round": "147.7",
+        "kills_per_round": "0.76",
+        "assists_per_round": "0.33",
+        "first_kills_per_round": "0.08",
+        "first_deaths_per_round": "0.09",
+        "headshot_percentage": "20%",
+        "clutch_success_percentage": "20%"
+      },
+      {
+        "player": "Minimise",
+        "org": "KING",
+        "agents": [
+          "yoru",
+          "deadlock",
+          "viper"
+        ],
+        "rounds_played": "282",
+        "rating": "1.03",
+        "average_combat_score": "227.6",
+        "kill_deaths": "1.04",
+        "kill_assists_survived_traded": "67%",
+        "average_damage_per_round": "144.3",
+        "kills_per_round": "0.80",
+        "assists_per_round": "0.21",
+        "first_kills_per_round": "0.19",
+        "first_deaths_per_round": "0.15",
+        "headshot_percentage": "24%",
+        "clutch_success_percentage": "24%"
+      },
+      {
+        "player": "Strame",
+        "org": "CDMD",
+        "agents": [
+          "vyse",
+          "cypher",
+          "astra"
+        ],
+        "rounds_played": "228",
+        "rating": "1.03",
+        "average_combat_score": "187.3",
+        "kill_deaths": "1.03",
+        "kill_assists_survived_traded": "71%",
+        "average_damage_per_round": "126.0",
+        "kills_per_round": "0.70",
+        "assists_per_round": "0.23",
+        "first_kills_per_round": "0.07",
+        "first_deaths_per_round": "0.07",
+        "headshot_percentage": "39%",
+        "clutch_success_percentage": "8%"
+      },
+      {
+        "player": "quacker",
+        "org": "228",
+        "agents": [
+          "neon",
+          "sage"
+        ],
+        "rounds_played": "228",
+        "rating": "0.97",
+        "average_combat_score": "212.8",
+        "kill_deaths": "0.98",
+        "kill_assists_survived_traded": "64%",
+        "average_damage_per_round": "134.0",
+        "kills_per_round": "0.74",
+        "assists_per_round": "0.23",
+        "first_kills_per_round": "0.14",
+        "first_deaths_per_round": "0.13",
+        "headshot_percentage": "19%",
+        "clutch_success_percentage": "5%"
+      },
+      {
+        "player": "KADIRI",
+        "org": "KING",
+        "agents": [
+          "vyse",
+          "viper",
+          "cypher"
+        ],
+        "rounds_played": "267",
+        "rating": "0.95",
+        "average_combat_score": "190.7",
+        "kill_deaths": "0.93",
+        "kill_assists_survived_traded": "67%",
+        "average_damage_per_round": "127.3",
+        "kills_per_round": "0.69",
+        "assists_per_round": "0.16",
+        "first_kills_per_round": "0.07",
+        "first_deaths_per_round": "0.09",
+        "headshot_percentage": "37%",
+        "clutch_success_percentage": "14%"
+      },
+      {
+        "player": "W4TER56",
+        "org": "CDMD",
+        "agents": [
+          "omen",
+          "phoenix",
+          "brimstone"
+        ],
+        "rounds_played": "204",
+        "rating": "0.91",
+        "average_combat_score": "178.2",
+        "kill_deaths": "0.85",
+        "kill_assists_survived_traded": "71%",
+        "average_damage_per_round": "124.1",
+        "kills_per_round": "0.60",
+        "assists_per_round": "0.27",
+        "first_kills_per_round": "0.07",
+        "first_deaths_per_round": "0.06",
+        "headshot_percentage": "27%",
+        "clutch_success_percentage": "19%"
+      },
+      {
+        "player": "IKANA",
+        "org": "KING",
+        "agents": [
+          "sova",
+          "fade",
+          "yoru"
+        ],
+        "rounds_played": "252",
+        "rating": "0.91",
+        "average_combat_score": "170.3",
+        "kill_deaths": "0.88",
+        "kill_assists_survived_traded": "65%",
+        "average_damage_per_round": "111.9",
+        "kills_per_round": "0.63",
+        "assists_per_round": "0.28",
+        "first_kills_per_round": "0.05",
+        "first_deaths_per_round": "0.08",
+        "headshot_percentage": "26%",
+        "clutch_success_percentage": "8%"
+      },
+      {
+        "player": "indie",
+        "org": "JOB",
+        "agents": [
+          "jett",
+          "raze",
+          "neon"
+        ],
+        "rounds_played": "305",
+        "rating": "0.90",
+        "average_combat_score": "200.9",
+        "kill_deaths": "0.85",
+        "kill_assists_survived_traded": "69%",
+        "average_damage_per_round": "138.6",
+        "kills_per_round": "0.68",
+        "assists_per_round": "0.22",
+        "first_kills_per_round": "0.15",
+        "first_deaths_per_round": "0.17",
+        "headshot_percentage": "24%",
+        "clutch_success_percentage": "5%"
+      },
+      {
+        "player": "LEW",
+        "org": "KING",
+        "agents": [
+          "yoru",
+          "raze",
+          "waylay"
+        ],
+        "rounds_played": "230",
+        "rating": "0.88",
+        "average_combat_score": "190.2",
+        "kill_deaths": "0.89",
+        "kill_assists_survived_traded": "65%",
+        "average_damage_per_round": "126.7",
+        "kills_per_round": "0.67",
+        "assists_per_round": "0.16",
+        "first_kills_per_round": "0.10",
+        "first_deaths_per_round": "0.14",
+        "headshot_percentage": "29%",
+        "clutch_success_percentage": "7%"
+      },
+      {
+        "player": "Dragon",
+        "org": "KING",
+        "agents": [
+          "omen",
+          "brimstone"
+        ],
+        "rounds_played": "200",
+        "rating": "0.87",
+        "average_combat_score": "170.6",
+        "kill_deaths": "0.81",
+        "kill_assists_survived_traded": "69%",
+        "average_damage_per_round": "110.4",
+        "kills_per_round": "0.60",
+        "assists_per_round": "0.38",
+        "first_kills_per_round": "0.08",
+        "first_deaths_per_round": "0.10",
+        "headshot_percentage": "31%",
+        "clutch_success_percentage": "5%"
+      },
+      {
+        "player": "exempt",
+        "org": "HSW",
+        "agents": [
+          "omen",
+          "fade",
+          "astra"
+        ],
+        "rounds_played": "335",
+        "rating": "0.85",
+        "average_combat_score": "159.9",
+        "kill_deaths": "0.80",
+        "kill_assists_survived_traded": "74%",
+        "average_damage_per_round": "104.3",
+        "kills_per_round": "0.56",
+        "assists_per_round": "0.36",
+        "first_kills_per_round": "0.04",
+        "first_deaths_per_round": "0.04",
+        "headshot_percentage": "28%",
+        "clutch_success_percentage": "5%"
+      },
+      {
+        "player": "nez",
+        "org": "CDMD",
+        "agents": [
+          "fade",
+          "sova",
+          "skye"
+        ],
+        "rounds_played": "208",
+        "rating": "0.81",
+        "average_combat_score": "146.6",
+        "kill_deaths": "0.68",
+        "kill_assists_survived_traded": "66%",
+        "average_damage_per_round": "98.7",
+        "kills_per_round": "0.48",
+        "assists_per_round": "0.33",
+        "first_kills_per_round": "0.05",
+        "first_deaths_per_round": "0.06",
+        "headshot_percentage": "20%",
+        "clutch_success_percentage": "9%"
+      }
+    ]
+  }
+}
